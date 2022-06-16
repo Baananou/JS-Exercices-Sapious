@@ -1,4 +1,4 @@
-let N = 8 // declare N
+const N = 8 // declare N
 let output = '' // declare output
 
 for (let i = 1; i <= N; i++) { //Go through N lines
